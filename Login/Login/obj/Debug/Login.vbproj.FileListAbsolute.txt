@@ -1,0 +1,178 @@
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\bin\Debug\Login.exe.config
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\bin\Debug\Login.exe
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\bin\Debug\Login.pdb
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\bin\Debug\Login.xml
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\bin\Debug\MaterialSkin.dll
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\obj\Debug\Login.vbprojResolveAssemblyReference.cache
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\obj\Debug\Login.Resources.resources
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\obj\Debug\Login.exe
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\obj\Debug\Login.xml
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\obj\Debug\Login.pdb
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\obj\Debug\Login.Form1.resources
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\bin\Debug\MySql.Data.dll
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\bin\Debug\MySql.Data.xml
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\obj\Debug\Login.SUMenu.resources
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\obj\Debug\Login.jurusan.resources
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\obj\Debug\Login.editjurusan.resources
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\obj\Debug\Login.User.resources
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\obj\Debug\Login.edituser.resources
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\obj\Debug\Login.Beasiswa.resources
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\obj\Debug\Login.EditBeasiswa.resources
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\obj\Debug\Login.Mahasiswa.resources
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\obj\Debug\Login.InsertMahasiswa.resources
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\obj\Debug\Login.NilaiTest.resources
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\obj\Debug\Login.InsertNilaiTest.resources
+D:\Users\Kevin\Documents\Visual Studio 2015\Projects\AnPSI\Login\Login\obj\Debug\Login.EditNilaiTest.resources
+C:\Users\X450\Desktop\AnPSI\Login\Login\bin\Debug\Login.exe.config
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.exe
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.xml
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.pdb
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.vbprojResolveAssemblyReference.cache
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.Beasiswa.resources
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.EditBeasiswa.resources
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.editjurusan.resources
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.EditNilaiTest.resources
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.edituser.resources
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.InsertMahasiswa.resources
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.InsertNilaiTest.resources
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.jurusan.resources
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.Mahasiswa.resources
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.Resources.resources
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.NilaiTest.resources
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.SUMenu.resources
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.User.resources
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+C:\Users\X450\Desktop\AnPSI\Login\Login\bin\Debug\Login.exe
+C:\Users\X450\Desktop\AnPSI\Login\Login\bin\Debug\Login.pdb
+C:\Users\X450\Desktop\AnPSI\Login\Login\bin\Debug\Login.xml
+C:\Users\X450\Desktop\AnPSI\Login\Login\bin\Debug\MaterialSkin.dll
+C:\Users\X450\Desktop\AnPSI\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\X450\Desktop\AnPSI\Login\Login\bin\Debug\MySql.Data.xml
+C:\Users\X450\Desktop\AnPSI\Login\Login\obj\Debug\Login.insertjurusan.resources
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.exe
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.xml
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.pdb
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\bin\Debug\Login.exe
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\bin\Debug\Login.pdb
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\bin\Debug\Login.xml
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\bin\Debug\MaterialSkin.dll
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\bin\Debug\MySql.Data.xml
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.vbprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.Beasiswa.resources
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.EditBeasiswa.resources
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.editjurusan.resources
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.EditNilaiTest.resources
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.edituser.resources
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.insertjurusan.resources
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.InsertMahasiswa.resources
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.InsertNilaiTest.resources
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.Jurusan.resources
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.Mahasiswa.resources
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.Resources.resources
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.NilaiTest.resources
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.SUMenu.resources
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.User.resources
+C:\Users\Kevin\Desktop\AnPSI\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\bin\Debug\Login.exe.config
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.exe
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.xml
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.pdb
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.vbprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.Beasiswa.resources
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.EditBeasiswa.resources
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.editjurusan.resources
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.EditNilaiTest.resources
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.edituser.resources
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.insertjurusan.resources
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.InsertMahasiswa.resources
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.InsertNilaiTest.resources
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.Jurusan.resources
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.Mahasiswa.resources
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.Resources.resources
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.NilaiTest.resources
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.SUMenu.resources
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.User.resources
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\bin\Debug\Login.exe
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\bin\Debug\Login.pdb
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\bin\Debug\Login.xml
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\bin\Debug\MaterialSkin.dll
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\bin\Debug\MySql.Data.xml
+C:\Users\asus\Documents\GitHub\ANPSI\Login\Login\obj\Debug\Login.editmahasiswa.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\bin\Debug\Login.exe.config
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.exe
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.xml
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.pdb
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\bin\Debug\Login.exe
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\bin\Debug\Login.pdb
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\bin\Debug\Login.xml
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\bin\Debug\MaterialSkin.dll
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\bin\Debug\MySql.Data.xml
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.vbprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.Beasiswa.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.EditBeasiswa.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.editjurusan.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.editmahasiswa.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.EditNilaiTest.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.EditSekolah.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.edituser.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.insertjurusan.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.InsertMahasiswa.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.InsertNilaiTest.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.InsertSekolah.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.Jurusan.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.Mahasiswa.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.Resources.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.NilaiTest.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.Sekolah.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.SUMenu.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.User.resources
+C:\Users\Kevin\Desktop\New folder\ANPSI\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\bin\Debug\Login.exe.config
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.exe
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.xml
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.pdb
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\bin\Debug\Login.exe
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\bin\Debug\Login.pdb
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\bin\Debug\Login.xml
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\bin\Debug\MaterialSkin.dll
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\bin\Debug\MySql.Data.xml
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.vbprojResolveAssemblyReference.cache
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.AdminBeasiswa.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.adminEditSekolah.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.adminInsertSekolah.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.adminMahasiswa.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.adminSekolah.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.admintagihan.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.Beasiswa.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.EditBeasiswa.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.editjurusan.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.editmahasiswa.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.EditNilaiTest.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.EditSekolah.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.edittagihan.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.edituser.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.insertjurusan.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.InsertMahasiswa.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.InsertNilaiTest.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.InsertSekolah.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.insertuser.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.Jurusan.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.Mahasiswa.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.Resources.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.NilaiTest.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.Sekolah.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.SUMenu.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.tagihan.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.User.resources
+C:\Users\X450\Documents\GitHub\AnpsiV2\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache

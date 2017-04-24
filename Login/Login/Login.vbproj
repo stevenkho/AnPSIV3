@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{85FEDDE1-5495-4382-AF2B-178198DEE0CA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Login.My.MyApplication</StartupObject>
+    <RootNamespace>Login</RootNamespace>
+    <AssemblyName>Login</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Login.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Login.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.Updated.0.2.2\lib\MaterialSkin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminBeasiswa.Designer.vb">
+      <DependentUpon>AdminBeasiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminBeasiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminEditSekolah.Designer.vb">
+      <DependentUpon>AdminEditSekolah.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminEditSekolah.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminInsertSekolah.Designer.vb">
+      <DependentUpon>AdminInsertSekolah.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminInsertSekolah.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminMahasiswa.Designer.vb">
+      <DependentUpon>AdminMahasiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminMahasiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminSekolah.Designer.vb">
+      <DependentUpon>AdminSekolah.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminSekolah.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminTagihan.Designer.vb">
+      <DependentUpon>AdminTagihan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminTagihan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AMenu.Designer.vb">
+      <DependentUpon>AMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Beasiswa.Designer.vb">
+      <DependentUpon>Beasiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Beasiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="connection.vb" />
+    <Compile Include="DAL.vb" />
+    <Compile Include="EditBeasiswa.Designer.vb">
+      <DependentUpon>EditBeasiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditBeasiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editjurusan.Designer.vb">
+      <DependentUpon>editjurusan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editjurusan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editmahasiswa.Designer.vb">
+      <DependentUpon>editmahasiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editmahasiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditNilaiTest.Designer.vb">
+      <DependentUpon>EditNilaiTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditNilaiTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditSekolah.Designer.vb">
+      <DependentUpon>EditSekolah.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditSekolah.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edittagihan.Designer.vb">
+      <DependentUpon>edittagihan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edittagihan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edituser.Designer.vb">
+      <DependentUpon>edituser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="edituser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertJurusan.Designer.vb">
+      <DependentUpon>InsertJurusan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InsertJurusan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertMahasiswa.Designer.vb">
+      <DependentUpon>InsertMahasiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InsertMahasiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertNilaiTest.Designer.vb">
+      <DependentUpon>InsertNilaiTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InsertNilaiTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertSekolah.Designer.vb">
+      <DependentUpon>InsertSekolah.vb</DependentUpon>
+    </Compile>
+    <Compile Include="InsertSekolah.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertuser.Designer.vb">
+      <DependentUpon>insertuser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="insertuser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jurusan.Designer.vb">
+      <DependentUpon>jurusan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="jurusan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mahasiswa.Designer.vb">
+      <DependentUpon>Mahasiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mahasiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NilaiTest.Designer.vb">
+      <DependentUpon>NilaiTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NilaiTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sekolah.Designer.vb">
+      <DependentUpon>Sekolah.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sekolah.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SUMenu.Designer.vb">
+      <DependentUpon>SUMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SUMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tagihan.Designer.vb">
+      <DependentUpon>tagihan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tagihan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User.Designer.vb">
+      <DependentUpon>User.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AdminBeasiswa.resx">
+      <DependentUpon>AdminBeasiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminEditSekolah.resx">
+      <DependentUpon>AdminEditSekolah.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminInsertSekolah.resx">
+      <DependentUpon>AdminInsertSekolah.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminMahasiswa.resx">
+      <DependentUpon>AdminMahasiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminSekolah.resx">
+      <DependentUpon>AdminSekolah.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminTagihan.resx">
+      <DependentUpon>AdminTagihan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Beasiswa.resx">
+      <DependentUpon>Beasiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditBeasiswa.resx">
+      <DependentUpon>EditBeasiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editjurusan.resx">
+      <DependentUpon>editjurusan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editmahasiswa.resx">
+      <DependentUpon>editmahasiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditNilaiTest.resx">
+      <DependentUpon>EditNilaiTest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditSekolah.resx">
+      <DependentUpon>EditSekolah.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edittagihan.resx">
+      <DependentUpon>edittagihan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edituser.resx">
+      <DependentUpon>edituser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsertJurusan.resx">
+      <DependentUpon>InsertJurusan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsertMahasiswa.resx">
+      <DependentUpon>InsertMahasiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsertNilaiTest.resx">
+      <DependentUpon>InsertNilaiTest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsertSekolah.resx">
+      <DependentUpon>InsertSekolah.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertuser.resx">
+      <DependentUpon>insertuser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jurusan.resx">
+      <DependentUpon>jurusan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mahasiswa.resx">
+      <DependentUpon>Mahasiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NilaiTest.resx">
+      <DependentUpon>NilaiTest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sekolah.resx">
+      <DependentUpon>Sekolah.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SUMenu.resx">
+      <DependentUpon>SUMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tagihan.resx">
+      <DependentUpon>tagihan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User.resx">
+      <DependentUpon>User.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

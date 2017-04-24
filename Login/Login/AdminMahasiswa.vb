@@ -29,7 +29,7 @@
 
     Private Sub DataGridView1_CellClick(sender As Object, e As DataGridViewCellEventArgs) Handles DataGridView1.CellClick
         If DataGridView1.Columns(e.ColumnIndex).Name = "" Then
-            Dim edit As New editmahasiswa
+            Dim edit As New admineditmahasiswa
             edit.id = DataGridView1.Rows(DataGridView1.CurrentRow.Index).Cells.Item("mahasiswa_id").Value
             edit.Show()
             Me.Close()
@@ -40,7 +40,7 @@
     End Sub
 
     Private Sub MaterialRaisedButton2_Click(sender As Object, e As EventArgs) Handles MaterialRaisedButton2.Click
-        Dim insert As New InsertMahasiswa
+        Dim insert As New adminInsertMahasiswa
         insert.Show()
         Me.Close()
     End Sub
@@ -49,5 +49,9 @@
         Dim su As New AMenu
         su.Show()
         Me.Close()
+    End Sub
+
+    Private Sub DataGridView1_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles DataGridView1.CellContentClick
+
     End Sub
 End Class

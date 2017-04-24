@@ -1,6 +1,6 @@
 ﻿Imports System.Text.RegularExpressions
 
-Public Class InsertMahasiswa
+Public Class adminInsertMahasiswa
     Dim dal As New DAL
     Private Sub InsertMahasiswa_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         isidata()
@@ -215,7 +215,7 @@ Public Class InsertMahasiswa
     End Sub
 
     Private Sub MaterialRaisedButton2_Click_1(sender As Object, e As EventArgs) Handles MaterialRaisedButton2.Click
-        Dim maha As New Mahasiswa
+        Dim maha As New adminMahasiswa
         maha.Show()
         Me.Close()
     End Sub

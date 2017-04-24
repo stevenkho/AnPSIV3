@@ -25,7 +25,7 @@
     End Sub
 
     Private Sub MaterialFlatButton1_Click(sender As Object, e As EventArgs) Handles MaterialFlatButton1.Click
-        Dim input As New NilaiTest
+        Dim input As New adminNilaiTest
         input.Show()
         Me.Close()
     End Sub

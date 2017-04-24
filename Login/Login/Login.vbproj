@@ -84,10 +84,34 @@
     <Compile Include="AdminBeasiswa.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="AdminEditMahasiswa.Designer.vb">
+      <DependentUpon>AdminEditMahasiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminEditMahasiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminEditNilaiTest.Designer.vb">
+      <DependentUpon>AdminEditNilaiTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminEditNilaiTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="AdminEditSekolah.Designer.vb">
       <DependentUpon>AdminEditSekolah.vb</DependentUpon>
     </Compile>
     <Compile Include="AdminEditSekolah.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminInsertMahasiswa.Designer.vb">
+      <DependentUpon>AdminInsertMahasiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminInsertMahasiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminInsertNilaiTest.Designer.vb">
+      <DependentUpon>AdminInsertNilaiTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminInsertNilaiTest.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="AdminInsertSekolah.Designer.vb">
@@ -100,6 +124,12 @@
       <DependentUpon>AdminMahasiswa.vb</DependentUpon>
     </Compile>
     <Compile Include="AdminMahasiswa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminNilaiTest.Designer.vb">
+      <DependentUpon>AdminNilaiTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminNilaiTest.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="AdminSekolah.Designer.vb">
@@ -269,8 +299,20 @@
     <EmbeddedResource Include="AdminBeasiswa.resx">
       <DependentUpon>AdminBeasiswa.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="AdminEditMahasiswa.resx">
+      <DependentUpon>AdminEditMahasiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminEditNilaiTest.resx">
+      <DependentUpon>AdminEditNilaiTest.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="AdminEditSekolah.resx">
       <DependentUpon>AdminEditSekolah.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminInsertMahasiswa.resx">
+      <DependentUpon>AdminInsertMahasiswa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminInsertNilaiTest.resx">
+      <DependentUpon>AdminInsertNilaiTest.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="AdminInsertSekolah.resx">
       <DependentUpon>AdminInsertSekolah.vb</DependentUpon>
@@ -278,11 +320,17 @@
     <EmbeddedResource Include="AdminMahasiswa.resx">
       <DependentUpon>AdminMahasiswa.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="AdminNilaiTest.resx">
+      <DependentUpon>AdminNilaiTest.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="AdminSekolah.resx">
       <DependentUpon>AdminSekolah.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="AdminTagihan.resx">
       <DependentUpon>AdminTagihan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AMenu.resx">
+      <DependentUpon>AMenu.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Beasiswa.resx">
       <DependentUpon>Beasiswa.vb</DependentUpon>

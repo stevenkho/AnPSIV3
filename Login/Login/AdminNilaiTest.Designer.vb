@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
-Partial Class adminMahasiswa
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+Partial Class adminNilaiTest
     Inherits MaterialSkin.Controls.MaterialForm
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()>
+    <System.Diagnostics.DebuggerNonUserCode()> _
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,17 +20,17 @@ Partial Class adminMahasiswa
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()>
+    <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.ComboBox1 = New System.Windows.Forms.ComboBox()
         Me.MaterialLabel10 = New MaterialSkin.Controls.MaterialLabel()
-        Me.MaterialRaisedButton2 = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.MaterialRaisedButton4 = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.MaterialRaisedButton5 = New MaterialSkin.Controls.MaterialRaisedButton()
         Me.MaterialLabel9 = New MaterialSkin.Controls.MaterialLabel()
         Me.namajurusan = New MaterialSkin.Controls.MaterialSingleLineTextField()
-        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.DataGridView2 = New System.Windows.Forms.DataGridView()
+        Me.MaterialRaisedButton1 = New MaterialSkin.Controls.MaterialRaisedButton()
+        CType(Me.DataGridView2, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'ComboBox1
@@ -38,7 +38,7 @@ Partial Class adminMahasiswa
         Me.ComboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.ComboBox1.FormattingEnabled = True
         Me.ComboBox1.Items.AddRange(New Object() {""})
-        Me.ComboBox1.Location = New System.Drawing.Point(87, 111)
+        Me.ComboBox1.Location = New System.Drawing.Point(86, 110)
         Me.ComboBox1.Name = "ComboBox1"
         Me.ComboBox1.Size = New System.Drawing.Size(476, 21)
         Me.ComboBox1.TabIndex = 45
@@ -50,27 +50,12 @@ Partial Class adminMahasiswa
         Me.MaterialLabel10.Depth = 0
         Me.MaterialLabel10.Font = New System.Drawing.Font("Roboto", 11.0!)
         Me.MaterialLabel10.ForeColor = System.Drawing.Color.FromArgb(CType(CType(222, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer))
-        Me.MaterialLabel10.Location = New System.Drawing.Point(11, 110)
+        Me.MaterialLabel10.Location = New System.Drawing.Point(10, 109)
         Me.MaterialLabel10.MouseState = MaterialSkin.MouseState.HOVER
         Me.MaterialLabel10.Name = "MaterialLabel10"
         Me.MaterialLabel10.Size = New System.Drawing.Size(70, 19)
         Me.MaterialLabel10.TabIndex = 44
         Me.MaterialLabel10.Text = "Jurusan :"
-        '
-        'MaterialRaisedButton2
-        '
-        Me.MaterialRaisedButton2.AutoSize = True
-        Me.MaterialRaisedButton2.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
-        Me.MaterialRaisedButton2.Depth = 0
-        Me.MaterialRaisedButton2.Icon = Nothing
-        Me.MaterialRaisedButton2.Location = New System.Drawing.Point(77, 145)
-        Me.MaterialRaisedButton2.MouseState = MaterialSkin.MouseState.HOVER
-        Me.MaterialRaisedButton2.Name = "MaterialRaisedButton2"
-        Me.MaterialRaisedButton2.Primary = True
-        Me.MaterialRaisedButton2.Size = New System.Drawing.Size(68, 36)
-        Me.MaterialRaisedButton2.TabIndex = 43
-        Me.MaterialRaisedButton2.Text = "INSERT"
-        Me.MaterialRaisedButton2.UseVisualStyleBackColor = True
         '
         'MaterialRaisedButton4
         '
@@ -78,12 +63,12 @@ Partial Class adminMahasiswa
         Me.MaterialRaisedButton4.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
         Me.MaterialRaisedButton4.Depth = 0
         Me.MaterialRaisedButton4.Icon = Nothing
-        Me.MaterialRaisedButton4.Location = New System.Drawing.Point(15, 145)
+        Me.MaterialRaisedButton4.Location = New System.Drawing.Point(14, 137)
         Me.MaterialRaisedButton4.MouseState = MaterialSkin.MouseState.HOVER
         Me.MaterialRaisedButton4.Name = "MaterialRaisedButton4"
         Me.MaterialRaisedButton4.Primary = True
         Me.MaterialRaisedButton4.Size = New System.Drawing.Size(56, 36)
-        Me.MaterialRaisedButton4.TabIndex = 42
+        Me.MaterialRaisedButton4.TabIndex = 43
         Me.MaterialRaisedButton4.Text = "BACK"
         Me.MaterialRaisedButton4.UseVisualStyleBackColor = True
         '
@@ -93,12 +78,12 @@ Partial Class adminMahasiswa
         Me.MaterialRaisedButton5.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
         Me.MaterialRaisedButton5.Depth = 0
         Me.MaterialRaisedButton5.Icon = Nothing
-        Me.MaterialRaisedButton5.Location = New System.Drawing.Point(490, 145)
+        Me.MaterialRaisedButton5.Location = New System.Drawing.Point(489, 137)
         Me.MaterialRaisedButton5.MouseState = MaterialSkin.MouseState.HOVER
         Me.MaterialRaisedButton5.Name = "MaterialRaisedButton5"
         Me.MaterialRaisedButton5.Primary = True
         Me.MaterialRaisedButton5.Size = New System.Drawing.Size(73, 36)
-        Me.MaterialRaisedButton5.TabIndex = 41
+        Me.MaterialRaisedButton5.TabIndex = 42
         Me.MaterialRaisedButton5.Text = "Search"
         Me.MaterialRaisedButton5.UseVisualStyleBackColor = True
         '
@@ -109,11 +94,11 @@ Partial Class adminMahasiswa
         Me.MaterialLabel9.Depth = 0
         Me.MaterialLabel9.Font = New System.Drawing.Font("Roboto", 11.0!)
         Me.MaterialLabel9.ForeColor = System.Drawing.Color.FromArgb(CType(CType(222, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer))
-        Me.MaterialLabel9.Location = New System.Drawing.Point(11, 76)
+        Me.MaterialLabel9.Location = New System.Drawing.Point(10, 75)
         Me.MaterialLabel9.MouseState = MaterialSkin.MouseState.HOVER
         Me.MaterialLabel9.Name = "MaterialLabel9"
         Me.MaterialLabel9.Size = New System.Drawing.Size(57, 19)
-        Me.MaterialLabel9.TabIndex = 40
+        Me.MaterialLabel9.TabIndex = 41
         Me.MaterialLabel9.Text = "Nama :"
         '
         'namajurusan
@@ -121,7 +106,7 @@ Partial Class adminMahasiswa
         Me.namajurusan.BackColor = System.Drawing.Color.White
         Me.namajurusan.Depth = 0
         Me.namajurusan.Hint = ""
-        Me.namajurusan.Location = New System.Drawing.Point(87, 76)
+        Me.namajurusan.Location = New System.Drawing.Point(86, 75)
         Me.namajurusan.MaxLength = 32767
         Me.namajurusan.MouseState = MaterialSkin.MouseState.HOVER
         Me.namajurusan.Name = "namajurusan"
@@ -130,40 +115,55 @@ Partial Class adminMahasiswa
         Me.namajurusan.SelectionLength = 0
         Me.namajurusan.SelectionStart = 0
         Me.namajurusan.Size = New System.Drawing.Size(476, 23)
-        Me.namajurusan.TabIndex = 39
+        Me.namajurusan.TabIndex = 40
         Me.namajurusan.TabStop = False
         Me.namajurusan.UseSystemPasswordChar = False
         '
-        'DataGridView1
+        'DataGridView2
         '
-        Me.DataGridView1.AllowUserToAddRows = False
-        Me.DataGridView1.AllowUserToDeleteRows = False
-        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.DataGridView1.Location = New System.Drawing.Point(12, 194)
-        Me.DataGridView1.Name = "DataGridView1"
-        Me.DataGridView1.ReadOnly = True
-        Me.DataGridView1.RowHeadersVisible = False
-        Me.DataGridView1.Size = New System.Drawing.Size(550, 172)
-        Me.DataGridView1.TabIndex = 38
+        Me.DataGridView2.AllowUserToAddRows = False
+        Me.DataGridView2.AllowUserToDeleteRows = False
+        Me.DataGridView2.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill
+        Me.DataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DataGridView2.Location = New System.Drawing.Point(12, 179)
+        Me.DataGridView2.Name = "DataGridView2"
+        Me.DataGridView2.ReadOnly = True
+        Me.DataGridView2.RowHeadersVisible = False
+        Me.DataGridView2.Size = New System.Drawing.Size(550, 186)
+        Me.DataGridView2.TabIndex = 39
         '
-        'adminMahasiswa
+        'MaterialRaisedButton1
+        '
+        Me.MaterialRaisedButton1.AutoSize = True
+        Me.MaterialRaisedButton1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
+        Me.MaterialRaisedButton1.Depth = 0
+        Me.MaterialRaisedButton1.Icon = Nothing
+        Me.MaterialRaisedButton1.Location = New System.Drawing.Point(76, 137)
+        Me.MaterialRaisedButton1.MouseState = MaterialSkin.MouseState.HOVER
+        Me.MaterialRaisedButton1.Name = "MaterialRaisedButton1"
+        Me.MaterialRaisedButton1.Primary = True
+        Me.MaterialRaisedButton1.Size = New System.Drawing.Size(68, 36)
+        Me.MaterialRaisedButton1.TabIndex = 38
+        Me.MaterialRaisedButton1.Text = "Insert"
+        Me.MaterialRaisedButton1.UseVisualStyleBackColor = True
+        '
+        'adminNilaiTest
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackColor = System.Drawing.Color.White
         Me.ClientSize = New System.Drawing.Size(574, 377)
         Me.Controls.Add(Me.ComboBox1)
         Me.Controls.Add(Me.MaterialLabel10)
-        Me.Controls.Add(Me.MaterialRaisedButton2)
         Me.Controls.Add(Me.MaterialRaisedButton4)
         Me.Controls.Add(Me.MaterialRaisedButton5)
         Me.Controls.Add(Me.MaterialLabel9)
         Me.Controls.Add(Me.namajurusan)
-        Me.Controls.Add(Me.DataGridView1)
-        Me.Name = "adminMahasiswa"
+        Me.Controls.Add(Me.DataGridView2)
+        Me.Controls.Add(Me.MaterialRaisedButton1)
+        Me.Name = "adminNilaiTest"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "AdminMahasiswa"
-        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.Text = "AdminNilaiTest"
+        CType(Me.DataGridView2, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -171,10 +171,10 @@ Partial Class adminMahasiswa
 
     Friend WithEvents ComboBox1 As ComboBox
     Friend WithEvents MaterialLabel10 As MaterialSkin.Controls.MaterialLabel
-    Friend WithEvents MaterialRaisedButton2 As MaterialSkin.Controls.MaterialRaisedButton
     Friend WithEvents MaterialRaisedButton4 As MaterialSkin.Controls.MaterialRaisedButton
     Friend WithEvents MaterialRaisedButton5 As MaterialSkin.Controls.MaterialRaisedButton
     Friend WithEvents MaterialLabel9 As MaterialSkin.Controls.MaterialLabel
     Friend WithEvents namajurusan As MaterialSkin.Controls.MaterialSingleLineTextField
-    Friend WithEvents DataGridView1 As DataGridView
+    Friend WithEvents DataGridView2 As DataGridView
+    Friend WithEvents MaterialRaisedButton1 As MaterialSkin.Controls.MaterialRaisedButton
 End Class
